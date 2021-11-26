@@ -1,0 +1,41 @@
+{
+	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
+	"CreationDate" : "2021-11-26T23:09:48.629-00:00",
+	"Sources" : 
+	[
+		{
+			"Packages" : 
+			[
+				{
+					"PackageIdentifier" : "Microsoft.Edge"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WindowsTerminal"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.OneDrive"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VC++2015-2019Redist-x86"
+				},
+				{
+					"PackageIdentifier" : "Malwarebytes.Malwarebytes"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VC++2015-2019Redist-x64"
+				},
+				{
+					"PackageIdentifier" : "Adobe.Acrobat.Reader.64-bit"
+				}
+			],
+			"SourceDetails" : 
+			{
+				"Argument" : "https://winget.azureedge.net/cache",
+				"Identifier" : "Microsoft.Winget.Source_8wekyb3d8bbwe",
+				"Name" : "winget",
+				"Type" : "Microsoft.PreIndexed.Package"
+			}
+		}
+	],
+	"WinGetVersion" : "1.2.3131-preview"
+}
